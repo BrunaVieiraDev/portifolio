@@ -1,3 +1,5 @@
+Este projeto é um portifólio pessoal e de estudo, baseado no template abaixo
+
 Thanks for downloading this template!
 
 Template Name: iPortfolio
